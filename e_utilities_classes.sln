@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "e_utilities_classes", "e_utilities_classes.pyproj", "{88C8F263-C9B9-4D66-BB1F-9F21BF3F0D36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88C8F263-C9B9-4D66-BB1F-9F21BF3F0D36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88C8F263-C9B9-4D66-BB1F-9F21BF3F0D36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AEAFC59-7DB9-4D05-83F1-883185B69131}
+	EndGlobalSection
+EndGlobal
